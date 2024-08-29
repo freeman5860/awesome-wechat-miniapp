@@ -12,6 +12,7 @@
 - [插件](#插件)
 - [组件](#组件)
 - [Demo](#demo)
+- [常见问题](#常见问题)
 
 ## 官方文档
 
@@ -21,6 +22,8 @@
 - [小程序组件](https://developers.weixin.qq.com/miniprogram/dev/component/)
 - [小程序 API](https://developers.weixin.qq.com/miniprogram/dev/api/)
 - [小程序开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
+- [小程序开发指南](https://developers.weixin.qq.com/ebook?action=get_post_info&docid=0008aeea9a8978ab0086a685851c0a)
+- [云开发指南](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/quick-start/miniprogram.html)
 
 [↑ 返回目录 ↑](#目录)
 
@@ -29,5 +32,11 @@
 ## 插件
 
 ## 组件
+- [TDesign组件库指引](https://tdesign.tencent.com/miniprogram/getting-started)
 
 ## demo
+
+## 常见问题
+[腾讯云侧如何绑定微信小程序](https://cloud.tencent.com/document/product/876/41391)
+
+
