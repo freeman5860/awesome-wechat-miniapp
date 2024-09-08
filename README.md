@@ -12,6 +12,8 @@
 - [插件](#插件)
 - [组件](#组件)
 - [Demo](#demo)
+- [参考资料](#参考资料)
+- [素材](#素材)
 - [常见问题](#常见问题)
 
 ## 官方文档
@@ -35,6 +37,14 @@
 - [TDesign组件库指引](https://tdesign.tencent.com/miniprogram/getting-started)
 
 ## demo
+
+## 参考资料
+- [微信小程序云开发授权登录的简易制作](https://blog.csdn.net/qq_46068864/article/details/122895337)
+  wx.getUserProfile接口已不可用
+
+## 素材
+- [icon图标资源](https://www.iconfont.cn/)
+  阿里巴巴矢量图标库
 
 ## 常见问题
 [腾讯云侧如何绑定微信小程序](https://cloud.tencent.com/document/product/876/41391)
